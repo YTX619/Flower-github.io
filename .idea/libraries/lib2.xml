@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/flower111/lib/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flower111/lib/commons-codec-1.17.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flower111/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flower111/lib/poi-ooxml-5.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flower111/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flower111/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flower111/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flower111/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flower111/lib/poi-5.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flower111/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flower111/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flower111/lib/poi-ooxml-schemas-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flower111/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flower111/lib/xmlbeans-5.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
